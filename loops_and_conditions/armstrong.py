@@ -18,3 +18,37 @@ if num.isdigit():
         print("It's not an Armstrong number")
 else:
     print("Wrong input")
+
+
+
+
+
+
+
+
+
+
+
+#### method 2
+
+
+# num = int(input("Enter a number: "))
+# temp = num
+
+# count = 0
+# while temp > 0:
+#     count += 1
+#     temp //= 10
+
+# temp = num
+# total = 0
+
+# while temp > 0:
+#     digit = temp % 10
+#     total += digit ** count
+#     temp //= 10
+
+# if total == num:
+#     print("Armstrong number")
+# else:
+#     print("Not an Armstrong number")
