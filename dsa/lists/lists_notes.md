@@ -48,7 +48,7 @@ b = a.copy()
 
 ### Tips
 
--Prefer append() over + for efficiency
--Use sorted() if original list must remain
--Use copy() instead of = to avoid reference issues
--Use enumerate() for index in loops
+- Prefer append() over + for efficiency
+- Use sorted() if original list must remain
+- Use copy() instead of = to avoid reference issues
+- Use enumerate() for index in loops
