@@ -36,15 +36,15 @@ b = a.copy()
 ```
 ### 3️⃣ Built-in Functions with Lists
 
--len(list) → Length
--max(list) → Maximum
--min(list) → Minimum
--sum(list) → Sum of elements
--sorted(list) → Returns new sorted list
--any(list) → True if any element is True
--all(list) → True if all elements are True
--enumerate(list) → Index & value pairs
--zip(list1, list2) → Combine multiple lists
+- len(list) → Length
+- max(list) → Maximum
+- min(list) → Minimum
+- sum(list) → Sum of elements
+- sorted(list) → Returns new sorted list
+- any(list) → True if any element is True
+- all(list) → True if all elements are True
+- enumerate(list) → Index & value pairs
+- zip(list1, list2) → Combine multiple lists
 
 ### Tips
 
