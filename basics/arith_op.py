@@ -7,7 +7,7 @@ mul = a*b
 div = a/b
 
 print("Sum = ",sum)
-print("Substraction = ",sub)
+print("Subtraction = ",sub)
 print("Multiplication = ",mul)
 print("Division = ",div)
 

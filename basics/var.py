@@ -2,7 +2,7 @@ name = "ABC"
 age = 20
 cgpa = 9.01
 is_student = True
-grade = "A"
+
 
 
 
@@ -15,4 +15,3 @@ print(type(name))                #String
 print(type(age))                 #Int
 print(type(cgpa))                #Float
 print(type(is_student))          #Boolean
-print(type(grade))               #Char

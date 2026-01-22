@@ -1,0 +1,23 @@
+# Python Practice Repository 🐍
+
+This repository contains my daily Python practice codes.
+I use it to strengthen fundamentals, problem-solving skills,
+and to build small projects.
+
+## 📂 Structure
+- basics/        → Core Python concepts
+- oops/          → Object-Oriented Programming
+- dsa/           → Data structures & algorithms
+- mini-projects/ → Small Python projects
+- notes/         → Quick references & notes
+
+## 🎯 Goals
+- Consistent daily practice
+- Clean and readable code
+- Strong fundamentals
+
+## 🚀 Tech
+- Python 3.x
+
+## 📌 Status
+Actively maintained and updated regularly.
