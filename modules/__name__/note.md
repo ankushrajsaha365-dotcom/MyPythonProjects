@@ -19,7 +19,7 @@
 ### demo.py
 ```python
 print(__name__)
-
+```
 __output__
 
 `"__main__"`
