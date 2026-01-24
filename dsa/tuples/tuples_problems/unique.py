@@ -3,6 +3,10 @@
 # Input: (1, 2, 3, 4)
 # Output: Unique
 
+
+# *this version is done with using lists*
+# *this will be muh easier if we use sets logic*
+
 my_tuple = tuple(map(int,input().split()))
 
 l1 = list(my_tuple)
@@ -16,3 +20,4 @@ if l1 == l2:
     print("Unique")
 else:
     print("Not Unique")
+
