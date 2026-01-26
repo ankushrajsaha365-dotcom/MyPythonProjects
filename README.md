@@ -1,18 +1,31 @@
-# Python Practice 🐍
+# Python Practice Repository 🐍
 
-This repository contains my Python practice codes and mini-projects.
-I use it to strengthen fundamentals, improve problem-solving skills,
-and build consistency through daily coding.
+This repository contains my daily Python practice codes.
+I use it to strengthen fundamentals, practice data structures,
+learn popular Python libraries, and build small projects.
 
 ---
 
 ## 📂 Repository Structure
 
-Python
-├── basics/ # Python fundamentals
-├── oops/ # Object-Oriented Programming
-├── dsa/ # Data Structures & Algorithms
-├── mini-projects/ # Small Python projects
+python-practice/
+│
+├── fundamentals/ # Core Python concepts
+│ ├── basics/
+│ ├── operators/
+│ ├── loops_and_conditions/
+│ ├── functions/
+│ ├── modules/
+│ └── dsa/
+│
+├── libraries/ # Third-party Python libraries
+│ ├── numpy/
+│ ├── pandas/
+│ ├── matplotlib/
+│ └── seaborn/
+│
+├── mini_projects/ # Small applied projects
+├── notebooks/ # Jupyter notebooks for learning & experimentation
 ├── notes/ # Markdown notes & references
 │
 ├── requirements.txt
@@ -26,24 +39,24 @@ Python
 ## 🎯 Goals
 
 - Build strong Python fundamentals  
-- Practice clean and readable code  
-- Maintain daily coding consistency  
-- Gradually move to intermediate & advanced topics  
+- Practice clean, modular, and readable code  
+- Learn data structures and algorithms  
+- Gain hands-on experience with NumPy, Pandas, and related libraries  
+- Maintain consistent daily progress  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
 - **Language:** Python 3.x  
-- **Editor:** VS Code  
-- **OS:** Linux / Windows  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
+- **Tools:** VS Code, Git, GitHub  
 
 ---
 
-## 📌 How to Run Code
+## 📌 Status
 
-```bash
-python filename.py
-```
+Actively maintained and updated as part of daily learning.
 
-## Happy CODING!!
+
+## HAPPY CODING !!!

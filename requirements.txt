@@ -1,23 +1,112 @@
-# Python Practice Repository 🐍
+LIBRARIES & SETUP GUIDE
 
-This repository contains my daily Python practice codes.
-I use it to strengthen fundamentals, problem-solving skills,
-and to build small projects.
+You do NOT need to install everything at once.
+Install libraries only when you are working on that specific topic.
 
-## 📂 Structure
-- basics/        → Core Python concepts
-- oops/          → Object-Oriented Programming
-- dsa/           → Data structures & algorithms
-- mini-projects/ → Small Python projects
-- notes/         → Quick references & notes
+================================================================
 
-## 🎯 Goals
-- Consistent daily practice
-- Clean and readable code
-- Strong fundamentals
+LIBRARIES BY TOPIC
 
-## 🚀 Tech
-- Python 3.x
+  Core Python (Basics, DSA, OOP)
+    - No extra libraries required
+    - Python standard library is enough
 
-## 📌 Status
-Actively maintained and updated regularly.
+----------------------------------------------------------------
+
+  Numerical Computing (NumPy)
+
+    Install this only if you are learning NumPy:
+
+      pip install numpy
+
+    Used for:
+      - Arrays
+      - Matrix operations
+      - Mathematical computations
+
+----------------------------------------------------------------
+
+  Data Analysis (Pandas)
+
+    Install this only if you are learning Pandas:
+
+      pip install pandas
+
+    Used for:
+      - DataFrames
+      - CSV / Excel handling
+      - Data cleaning
+
+----------------------------------------------------------------
+
+  Data Visualization
+
+    Install when you start plotting data:
+
+      pip install matplotlib seaborn
+
+    Used for:
+      - matplotlib : basic plots
+      - seaborn    : better-looking statistical plots
+
+----------------------------------------------------------------
+
+  Jupyter Notebooks (Optional but Recommended)
+
+    Install if you like interactive learning and notes:
+
+      pip install jupyter
+
+    Used for:
+      - .ipynb notebooks
+      - Experimenting with code
+      - Explanations with output together
+
+----------------------------------------------------------------
+
+IMPORTANT NOTE:
+  Install only what you need.
+  Do not blindly install everything.
+
+================================================================
+
+RECOMMENDED EDITOR & EXTENSIONS
+
+  Editor:
+    - VS Code (Recommended)
+
+  Must-have extensions:
+    - Python (by Microsoft)
+    - Pylance
+    - Jupyter (only if using notebooks)
+
+  Optional but useful:
+    - Code Runner
+    - Black Formatter
+
+================================================================
+
+HOW TO RUN PYTHON CODE
+
+  Run a .py file:
+
+    python filename.py
+
+  Example:
+
+    python even_odd.py
+
+----------------------------------------------------------------
+
+  Run a Jupyter Notebook:
+
+    jupyter notebook
+
+  Then open the .ipynb file in your browser or VS Code.
+
+================================================================
+
+FINAL TIP:
+  - Use .py files for logic and practice
+  - Use .ipynb files for learning and explanations
+  - Keep installations topic-based, not all at once
