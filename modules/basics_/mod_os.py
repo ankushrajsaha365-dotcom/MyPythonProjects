@@ -4,4 +4,10 @@ import os
 # os.mkdir("test_folder")
 # os.remove("file.txt")
 
-print(os.name)
+print(os.name)              #| Value     | Meaning              |
+                            #| --------- | -------------------- |
+                            #| `"posix"` | Linux / macOS / Unix |
+                            #| `"nt"`    | Windows              |
+                            #| `"java"`  | Jython (rare)        |
+
+                          

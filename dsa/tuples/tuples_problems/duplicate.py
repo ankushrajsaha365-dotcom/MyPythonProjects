@@ -3,12 +3,15 @@
 # Input: (1, 2, 3, 2, 1)
 # Output: (1, 2)
 
-my_tuple = tuple(map(int,input().split()))
-my_list = []
+my_tuple = tuple(map(int, input().split()))
 
-for i in my_tuple:
-    if i not in my_list:
-        my_list.append(i)
+seen = []
+duplicates = []
 
-my_tuple2 = tuple(my_list)
-print(my_tuple2)
+for item in my_tuple:
+    if item in seen and item not in duplicates:
+        duplicates.append(item)
+    else:
+        seen.append(item)
+
+print(tuple(duplicates))

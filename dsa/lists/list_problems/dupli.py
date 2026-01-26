@@ -8,6 +8,7 @@ from list_input import listy
 l = listy()
 
 print("Original list:",l)
+
 new_lst = []
 
 for i in l:

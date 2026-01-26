@@ -1,12 +1,12 @@
 def listy():
-    l = []   # list declaration
-    n = int(input("Enter number of elements:"))
-    for i in range(n):
-        i = int(input("Elements:"))
-        l.append(i)
+    l = []
+    n = int(input("Enter number of elements: "))
+
+    for _ in range(n):
+        element = int(input("Enter element: "))
+        l.append(element)
+
     return l
-
-
 
 
 #### using this module in other list related problems

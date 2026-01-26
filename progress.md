@@ -9,5 +9,5 @@
 | 4   | Lists                       | 23/1/26 |
 | 5   | Tuples                      | 24/1/26 |
 |     | Added a notes on map()      |         |
-| 6   |                             |         |
-| 7   |                             |         |
+| 6   | Sets                        | 25/1/26 |
+| 7   | Dictionary                  | 26/1/26 |

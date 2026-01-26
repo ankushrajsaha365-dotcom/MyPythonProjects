@@ -11,7 +11,7 @@
 - extend(iterable) → Add multiple elements
 - insert(i, x) → Insert at index i
 - remove(x) → Remove first occurrence
-- pop([i]) → Remove & return element (last by default)
+- pop() → Remove element (last by default)
 - clear() → Remove all elements
 - index(x) → Index of first occurrence
 - count(x) → Number of occurrences
