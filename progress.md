@@ -12,4 +12,5 @@
 | 6   | Sets                        | 25/1/26 |
 | 7   | Dictionary                  | 26/1/26 |
 | 8   | Numpy basics                | 27/1/26 |
-| 9   | OOPs day1                   | 30/1/26 |        | 
+| 9   | OOPs day1                   | 30/1/26 |        
+| 10  | OOPs day2                   | 31/1/26 | 
