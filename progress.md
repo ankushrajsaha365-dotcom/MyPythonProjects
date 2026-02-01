@@ -14,3 +14,4 @@
 | 8   | Numpy basics                | 27/1/26 |
 | 9   | OOPs day1                   | 30/1/26 |        
 | 10  | OOPs day2                   | 31/1/26 | 
+| 11  | OOPs notes                  | 1/2/26  | 
