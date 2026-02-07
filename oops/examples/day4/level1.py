@@ -31,3 +31,9 @@ student.get_marks()
 student.show()
 
     
+
+
+        # What to notice
+        #     Student did not redefine name or age
+        #     It reused get_details()
+        #     This is inheritance in action

@@ -7,9 +7,6 @@ There are **4 core OOP properties**:
 3️⃣ Inheritance
 4️⃣ Polymorphism
 
-We’ll go **one by one**, with *simple Python examples* — no overload.
-
----
 
 ## 1️⃣ Encapsulation (MOST IMPORTANT FIRST)
 
