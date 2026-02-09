@@ -8,3 +8,4 @@ import numpy as np
 array = np.arange(1,51)
 
 print(array[(array % 3 == 0) & (array > 10) & (array < 40)])
+

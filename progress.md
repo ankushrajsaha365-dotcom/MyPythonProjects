@@ -17,3 +17,7 @@
 | 11  | OOPs notes                  | 1/2/26  | 
 | 12  | OOPs day3 (Encapsulation)   | 2/2/26  |
 | 13  | OOPs day4 (Inheritance)     | 5/2/26  |
+| 14  | Numpy day1                  | 7/2/26  |
+| 15  | Numpy day2                  | 8/2/26  |
+| 16  | concepts of stack , queue   |         |
+|     | and linked list             | 9/2/26  |
