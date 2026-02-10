@@ -7,31 +7,35 @@ learn popular Python libraries, and build small projects.
 ---
 
 ## 📂 Repository Structure
+## python-practice
 
+```text
 python-practice/
 │
-├── fundamentals/ # Core Python concepts
-│ ├── basics/
-│ ├── operators/
-│ ├── loops_and_conditions/
-│ ├── functions/
-│ ├── modules/
-│ └── dsa/
+├── fundamentals/                # Core Python concepts
+│   ├── basics/
+│   ├── operators/
+│   ├── loops_and_conditions/
+│   ├── functions/
+│   ├── modules/
+│   └── dsa/
 │
-├── libraries/ # Third-party Python libraries
-│ ├── numpy/
-│ ├── pandas/
-│ ├── matplotlib/
-│ └── seaborn/
+├── libraries/                   # Third-party Python libraries
+│   ├── numpy/
+│   ├── pandas/
+│   ├── matplotlib/
+│   └── seaborn/
 │
-├── mini_projects/ # Small applied projects
-├── notebooks/ # Jupyter notebooks for learning & experimentation
-├── notes/ # Markdown notes & references
+├── mini_projects/               # Small applied projects
+│
+├── notebooks/                   # Jupyter notebooks for learning & experimentation
+│
+├── notes/                       # Markdown notes & references
 │
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 
 ---
