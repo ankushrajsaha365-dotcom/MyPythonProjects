@@ -19,5 +19,8 @@
 | 13  | OOPs day4 (Inheritance)     | 5/2/26  |
 | 14  | Numpy day1                  | 7/2/26  |
 | 15  | Numpy day2                  | 8/2/26  |
-| 16  | concepts of stack , queue   |         |
-|     | and linked list             | 9/2/26  |
+| 16  | Concepts of stack & queue   | 9/2/26  |
+| 17  | Concepts of Linked List     |         |
+| 18  | Recursion                   | 10/2/26 |
+|     |                             |         |
+|     |                             |         |
