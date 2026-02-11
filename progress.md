@@ -22,5 +22,5 @@
 | 16  | Concepts of stack & queue   | 9/2/26  |
 | 17  | Concepts of Linked List     |         |
 | 18  | Recursion                   | 10/2/26 |
-|     |                             |         |
-|     |                             |         |
+| 19  | Lambda function             |         |
+|     | Built-in functions          | 11/2/26 |
