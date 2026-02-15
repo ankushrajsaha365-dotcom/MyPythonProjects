@@ -6,3 +6,5 @@ def Power(base,power):
 base = int(input("Enter a number:"))
 power = int(input("Enter power:"))
 print("Answer:",Power(base,power))
+
+# Applycable for positive numbers

@@ -17,6 +17,7 @@ python-practice/
 │   ├── operators/
 │   ├── loops_and_conditions/
 │   ├── functions/
+|   ├── ExceptionHandling/
 │   ├── modules/
 │   └── dsa/
 │
@@ -28,7 +29,9 @@ python-practice/
 │
 ├── mini_projects/               # Small applied projects
 │
-├── notebooks/                   # Jupyter notebooks for learning & experimentation
+├── oops/                        # Object oriented programming
+|
+├── test_folder/                 # For learning & experimentation
 │
 ├── notes/                       # Markdown notes & references
 │

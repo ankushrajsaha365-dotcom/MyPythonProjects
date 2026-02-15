@@ -11,4 +11,4 @@ print(stack)      # [1, 2]
 
 
 if stack:
-    print(stack[-1])
+    print(stack[-1])                # returns top element

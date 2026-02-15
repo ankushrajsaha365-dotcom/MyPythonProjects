@@ -23,4 +23,6 @@
 | 17  | Concepts of Linked List     |         |
 | 18  | Recursion                   | 10/2/26 |
 | 19  | Lambda function             |         |
-|     | Built-in functions          | 11/2/26 |
+|     | Built-in functions I        | 11/2/26 |
+| 20  | Built-in functions II       | 13/2/26 |
+| 21  | Built-in functions III      | 14/2/26 |
