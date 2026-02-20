@@ -30,3 +30,4 @@
 | 23  | OOPs day6 (Abstraction)     | 16/2/26 |
 | 24  | Exception Handling II       | 17/2/26 |
 | 25  | Functions                   | 18/2/26 |
+| 26  | Python questions I          | 20/2/26 |
