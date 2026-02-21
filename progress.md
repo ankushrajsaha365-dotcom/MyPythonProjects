@@ -31,3 +31,4 @@
 | 24  | Exception Handling II       | 17/2/26 |
 | 25  | Functions                   | 18/2/26 |
 | 26  | Python questions I          | 20/2/26 |
+| 27  | Python questions II         | 21/2/26 |
