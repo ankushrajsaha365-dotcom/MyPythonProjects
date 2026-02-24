@@ -1,0 +1,3 @@
+Python is powerful
+File handling is important
+Practice makes perfect
