@@ -36,3 +36,4 @@
 | 29  | File Handling II            | 24/2/26 |  
 | 30  | Python questions III        | 25/2/26 |
 | 31  | Python questions IV         | 26/2/26 |
+| 32  | Python questions  V         | 27/2/26 |
