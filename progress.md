@@ -40,4 +40,5 @@
 | 33  | Python questions VI         | 28/2/26 |
 | 34  | Python questions VII        |  4/3/26 |
 | 35  | Python questions VIII       |  5/3/26 |
+| 36  | Python questions IX         |  6/3/26 |
 
