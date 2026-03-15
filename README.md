@@ -65,5 +65,4 @@ python-practice/
 
 Actively maintained and updated as part of daily learning.
 
-
 ## HAPPY CODING !!!

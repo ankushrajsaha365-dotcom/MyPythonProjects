@@ -45,4 +45,5 @@
 _______________________________________________
 
 | 38  | Plot basics                 | 14/3/26 |
-| 39  | File Handling III           | 15/3/26 |
+| 39  | File Handling III           |         |
+|     | Strings                     | 15/3/26 |
