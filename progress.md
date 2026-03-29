@@ -48,3 +48,4 @@ _______________________________________________
 | 39  | File Handling III           |         |
 |     | Strings                     | 15/3/26 |
 | 40  | Exception Handling III      | 20/3/26 |
+| 41  | Pandas                      | 29/3/26 |
