@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Age,Salary,Experience,JoinDate,City
+101,Raj,IT,25,50000,2,2022-06-15,Kolkata
+102,Aman,HR,30,45000,5,2020-03-10,Delhi
+103,Riya,Finance,28,60000,4,2019-07-23,Mumbai
+104,Neha,IT,26,52000,3,2021-01-12,Bangalore
+105,Arjun,IT,35,80000,10,2015-09-30,Hyderabad
+106,Pooja,HR,29,48000,6,2018-11-05,Chennai
+107,Karan,Finance,31,62000,7,2017-04-18,Pune
+108,Sneha,Marketing,27,47000,3,2021-08-25,Kolkata
+109,Rohit,Marketing,32,55000,8,2016-12-14,Delhi
+110,Anjali,Finance,24,58000,2,2023-02-20,Mumbai
