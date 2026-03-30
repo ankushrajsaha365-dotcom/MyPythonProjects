@@ -42,8 +42,6 @@
 | 35  | Python questions VIII       |  5/3/26 |
 | 36  | Python questions IX         |  6/3/26 |
 | 37  | Python questions X          |  7/3/26 |
-_______________________________________________
-
 | 38  | Plot basics                 | 14/3/26 |
 | 39  | File Handling III           |         |
 |     | Strings                     | 15/3/26 |
